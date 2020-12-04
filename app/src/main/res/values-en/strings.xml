@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="botonOk">Validate</string>
+    <string name="volver">Back</string>
+
+    <plurals name="cadenaFallos">
+        <item quantity="one">%d Error</item>
+        <item quantity="other">%d Errors.</item>
+    </plurals>
+
+    <string-array name="country_arrays">
+        <item>Malaysia</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+
+</resources>

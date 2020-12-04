@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PalabrasV2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="botonOk">Validar</string>
+    <string name="volver">Atras</string>
+
+    <plurals name="cadenaFallos">
+        <item quantity="one">%d Fallo.</item>
+        <item quantity="other">%d Fallos.</item>
+    </plurals>
+
+    <string-array name="country_arrays">
+        <item>Malaysia</item>
+        <item>Estados unidos</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+
+</resources>
